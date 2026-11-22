@@ -6,6 +6,9 @@ The repository provides a **Streamlit demo dashboard** for a quick public portfo
 
 ## Demo dashboard features
 
+🚀live demo link
+https://pulsetrace-api-monitoring-reliability-platform-xheakdbvuyuzxbt.streamlit.app/
+
 - Service inventory with ownership, region, criticality and health state
 - Availability, response-time and incident summary cards
 - Simulated endpoint checks that update the current session's telemetry
